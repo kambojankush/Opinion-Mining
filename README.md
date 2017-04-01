@@ -21,3 +21,6 @@ Implements a program that categorizes a word as positive or negative.
 Implements a program that categorizes a user’s tweets as positive or negative.
 
 **Usage**: ./tweets @handle
+
+For list of Positive and Negative words:
+https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon
